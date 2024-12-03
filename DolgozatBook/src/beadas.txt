@@ -1,0 +1,13 @@
+
+
+optimális:
+publikus github repository linkje elküldve ide:
+juhasz.zoltan@szentgyorgyi-nmszc.hu
+(e-mailből derüljön ki a polgári neved)
+
+
+
+szomorú:
+projektmappát bezippeled (jobbgomb -> küldés -> tömörített mappa)
+a .zip-et átnevezed a polgári nevedre
+<"Dolgozatok meghajtó">>:\Juhász Zoltán\<osztály-csoport-dátum>\
